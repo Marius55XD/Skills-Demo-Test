@@ -1,0 +1,10 @@
+C:\Users\20230323\source\repos\NewFeaturesInvoiceTotals\bin\Debug\NewFeaturesInvoiceTotals.exe.config
+C:\Users\20230323\source\repos\NewFeaturesInvoiceTotals\bin\Debug\NewFeaturesInvoiceTotals.exe
+C:\Users\20230323\source\repos\NewFeaturesInvoiceTotals\bin\Debug\NewFeaturesInvoiceTotals.pdb
+C:\Users\20230323\source\repos\NewFeaturesInvoiceTotals\obj\Debug\NewFeaturesInvoiceTotals.csproj.AssemblyReference.cache
+C:\Users\20230323\source\repos\NewFeaturesInvoiceTotals\obj\Debug\NewFeaturesInvoiceTotals.Form1.resources
+C:\Users\20230323\source\repos\NewFeaturesInvoiceTotals\obj\Debug\NewFeaturesInvoiceTotals.Properties.Resources.resources
+C:\Users\20230323\source\repos\NewFeaturesInvoiceTotals\obj\Debug\NewFeaturesInvoiceTotals.csproj.GenerateResource.cache
+C:\Users\20230323\source\repos\NewFeaturesInvoiceTotals\obj\Debug\NewFeaturesInvoiceTotals.csproj.CoreCompileInputs.cache
+C:\Users\20230323\source\repos\NewFeaturesInvoiceTotals\obj\Debug\NewFeaturesInvoiceTotals.exe
+C:\Users\20230323\source\repos\NewFeaturesInvoiceTotals\obj\Debug\NewFeaturesInvoiceTotals.pdb
